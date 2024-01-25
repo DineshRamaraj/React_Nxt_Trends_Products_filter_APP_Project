@@ -12,27 +12,6 @@
   }
 }
 
-.products-search-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  background-color: #f1f5f9;
-  border-radius: 10px;
-}
-
-.search-input {
-  width: 90%;
-  padding: 15px 15px;
-  font-size: 14px;
-  background-color: transparent;
-  border: 0px;
-  outline: 0px;
-}
-
-.search-icon {
-  font-size: 18px;
-}
-
 .products-list-heading {
   color: #475569;
   font-family: 'Roboto';
